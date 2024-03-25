@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 1. Liunx-bash 
 2. Docker compose images network
 3. Nignx conf sever
-4. Java class manven:depend/Python+bash $SHELL
+4. Java class manven:depend/Python+bash $SHELL /a litte know Javascrip,C,C++
 5. wordpress for recording
     
